@@ -1,4 +1,4 @@
-# 🚀 LLaMA 3.1 GPU Chatbot (Docker + Streamlit + FastAPI)
+#  LLaMA 3.1 GPU Chatbot (Docker + Streamlit + FastAPI)
 
 A **production-style chatbot** powered by **LLaMA 3.1**, running fully on **GPU**, with a clean separation of concerns.
 
@@ -10,7 +10,7 @@ A **production-style chatbot** powered by **LLaMA 3.1**, running fully on **GPU*
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 Browser  
 ↓  
@@ -22,7 +22,7 @@ Ollama (LLaMA 3.1 on GPU)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 llama-chatbot/
@@ -43,10 +43,6 @@ llama-chatbot/
 ---
 
 ## ✅ Prerequisites
-
-### Hardware
-- NVIDIA GPU (RTX / GTX)
-- 8 GB VRAM minimum (RTX 3060 / 4060 recommended)
 
 ### Software
 - Windows 10/11
